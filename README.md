@@ -1,6 +1,6 @@
 # Tutorial: Hosting a site on Dark Web (Tor Hidden Service)
 
-[![Run On Replit](https://replit.com/badge/github/arnav-kr/tor-tutorial)](https://replit.com/github/arnav-kr/tor-tutorial)
+[![Run On Replit](https://replit.com/badge/github/tucommenceapousser/tor-tutorial)](https://replit.com/github/tucommenceapousser/tor-tutorial)
 
 ## Introduction
 
@@ -46,13 +46,13 @@ Lets first summarize what we will be doing here:
 
 To deploy our Node.js App we will be using [Replit](https://replit.com). It is a simple yet powerful online IDE. You can do a bunch of stuff in it.
 
-And I have Already Created a [template](https://replit.com/@arnavkr/tor) in [Replit](https://replit.com) that you will be using to host your Node.js App.
+And I have Already Created a [template](https://replit.com/@trkn/tor) in [Replit](https://replit.com) that you will be using to host your Node.js App.
 
 First things first if you don't have a [Replit](https://replit.com) Account just go to https://replit.com and create one. Just log in with your GitHub and it will not take more than a few seconds.
 
-Now that you have a [Replit](https://replit.com) Account, you can fork the following repl: [https://replit.com/@arnavkr/tor](https://replit.com/@arnavkr/tor) or use this repo as template.
+Now that you have a [Replit](https://replit.com) Account, you can fork the following repl: [https://replit.com/@trkn/tor](https://replit.com/@trkn/tor) or use this repo as template.
 
-[![Run On Replit](https://replit.com/badge/github/arnav-kr/tor-tutorial)](https://replit.com/github/arnav-kr/tor-tutorial)
+[![Run On Replit](https://replit.com/badge/github/tucommenceapousser/tor-tutorial)](https://replit.com/github/tucommenceapousser/tor-tutorial)
 
 On Opening the Fork you will find many files here's the directory structure:
 ```
